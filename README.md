@@ -33,6 +33,7 @@
           <img src="https://img.icons8.com/color/128/000000/python.png" alt="python" width="50" height="50" />
           <img src="https://img.icons8.com/color/128/000000/javascript.png" alt="javascript" width="50" height="50" />
           <img src="https://img.icons8.com/color/128/000000/javascript.png" alt="javascript" width="50" height="50" />
+          <img src="https://img.icons8.com/color/128/000000/javascript.png" alt="javascript" width="50" height="50" />
         </div>
     </td>
   </tr>

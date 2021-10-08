@@ -32,8 +32,7 @@
           <img src="https://img.icons8.com/color/128/000000/javascript.png" alt="javascript" width="50" height="50" />
           <img src="https://img.icons8.com/color/128/000000/python.png" alt="python" width="50" height="50" />
           <img src="https://img.icons8.com/color/128/000000/javascript.png" alt="javascript" width="50" height="50" />
-          <img src="https://img.icons8.com/color/128/000000/javascript.png" alt="javascript" width="50" height="50" />
-          <img src="https://img.icons8.com/color/128/000000/javascript.png" alt="javascript" width="50" height="50" />
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/240px-HTML5_logo_and_wordmark.svg.png" alt="html" width="50" height="50" />
         </div>
     </td>
   </tr>

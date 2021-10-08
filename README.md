@@ -26,7 +26,7 @@
           <img src="https://img.icons8.com/color/128/000000/gatsbyjs.png" alt="gatsby" width="50" height="50" />
           <img src="https://img.icons8.com/color/128/000000/wordpress.png" alt="wp" width="50" height="50" />
           <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50" />
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="36" height="36" />
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="42" height="42" />
           <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="36" />
           <img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/04/css-3-logo.png" alt="css" width="50" height="50" />
           <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="nextjs" width="60" height="60" />

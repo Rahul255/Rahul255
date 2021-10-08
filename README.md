@@ -27,9 +27,7 @@
           <img src="https://img.icons8.com/color/128/000000/wordpress.png" alt="wp" width="50" height="50" />
           <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50" />
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="36" height="36" />
-          <img src="https://img.icons8.com/color/128/000000/adobe-photoshop.png" alt="ps" width="36" height="36" />
-          <img src="https://img.icons8.com/color/128/000000/figma.png" alt="figma" width="36" height="36" />
-          <img src="https://img.icons8.com/color/128/000000/adobe-xd.png" alt="xd" width="36" height="36" />
+          
           <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="36" />
           <img src="https://img.icons8.com/color/128/000000/python.png" alt="python" width="50" height="50" />
           <img src="https://img.icons8.com/color/128/000000/javascript.png" alt="javascript" width="50" height="50" />

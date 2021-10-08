@@ -32,6 +32,9 @@
           <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="nextjs" width="60" height="60" />
           <img src="https://www.drupal.org/files/project-images/vercel-deploy.png" alt="vercel" width="60" height="60" />
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/240px-HTML5_logo_and_wordmark.svg.png" alt="html" width="50" height="50" />
+          <img src="https://bigvision.co.nz/wp-content/uploads/2020/05/Gimp-Logo-800-x-600-400x300.jpg" alt="gimp" width="60" height="60" />
+          <img src="https://www.django-rest-framework.org/img/logo.png" alt="rest-api" width="60" height="60" />
+          <img src="https://miro.medium.com/max/1400/1*QOx_tPV5wJnhTzAGhfIiLA.png" alt="postman" width="60" height="60" />
         </div>
     </td>
   </tr>

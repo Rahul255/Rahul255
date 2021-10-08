@@ -11,6 +11,31 @@
   </tr>
 </table>
 
+<table>
+    <tr>
+      <td>
+        <div>
+          <img src="https://img.icons8.com/color/128/000000/python.png" alt="python" width="50" height="50" />
+          <img src="https://img.icons8.com/color/128/000000/javascript.png" alt="javascript" width="50" height="50" />
+          <img src="https://img.icons8.com/color/128/000000/typescript.png" alt="typescript" width="50" height="50" />
+          <img src="https://img.icons8.com/color/128/000000/react-native.png" alt="react" width="50" height="50" />
+          <img src="https://img.icons8.com/color/128/000000/django.png" alt="django" width="50" height="50" />
+          <img src="https://img.icons8.com/color/128/000000/graphql.png" alt="graphql" width="50" height="50" />
+          <img src="https://img.icons8.com/color/128/000000/git.png" alt="git" width="50" height="50" />
+          <img src="https://img.icons8.com/color/128/000000/bootstrap.png" alt="bootstrap" width="50" height="50" />
+          <img src="https://img.icons8.com/color/128/000000/gatsbyjs.png" alt="gatsby" width="50" height="50" />
+          <img src="https://img.icons8.com/color/128/000000/wordpress.png" alt="wp" width="50" height="50" />
+          <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50" />
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="36" height="36" />
+          <img src="https://img.icons8.com/color/128/000000/adobe-photoshop.png" alt="ps" width="36" height="36" />
+          <img src="https://img.icons8.com/color/128/000000/figma.png" alt="figma" width="36" height="36" />
+          <img src="https://img.icons8.com/color/128/000000/adobe-xd.png" alt="xd" width="36" height="36" />
+          <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="36" />
+        </div>
+    </td>
+  </tr>
+</table>
+
 <!--
 **Rahul255/Rahul255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

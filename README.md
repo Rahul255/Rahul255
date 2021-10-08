@@ -30,8 +30,8 @@
           <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="36" />
           <img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/04/css-3-logo.png" alt="css" width="50" height="50" />
           <img src="https://www.edgica.com/wp-content/files/django-logo-big.jpg" alt="django" width="50" height="50" />
-          <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="nextjs" width="50" height="50" />
-          <img src="https://www.drupal.org/files/project-images/vercel-deploy.png" alt="vercel" width="50" height="50" />
+          <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="nextjs" width="60" height="60" />
+          <img src="https://www.drupal.org/files/project-images/vercel-deploy.png" alt="vercel" width="60" height="60" />
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/240px-HTML5_logo_and_wordmark.svg.png" alt="html" width="50" height="50" />
         </div>
     </td>

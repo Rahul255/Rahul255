@@ -34,6 +34,10 @@
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/240px-HTML5_logo_and_wordmark.svg.png" alt="html" width="50" height="50" />
           <img src="https://bigvision.co.nz/wp-content/uploads/2020/05/Gimp-Logo-800-x-600-400x300.jpg" alt="gimp" width="60" height="60" />
           <img src="https://www.django-rest-framework.org/img/logo.png" alt="rest-api" width="60" height="60" />
+          <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--4BjMqsdN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4anecy5mdl4pho8w7519.jpg" alt="nodejs" width="60" height="60" />
+          <img src="https://cdn.filestackcontent.com/auto_image/resize=width:750,height:400,fit:crop/compress/cache=expiry:max/6IOYf3uRJMGxcpXMTswN" alt="mongodb" width="60" height="60" />
+          <img src="https://miro.medium.com/max/1400/1*uPL1uCtLBRSk6akPL2hNzg.jpeg" alt="express" width="60" height="60" />
+          <img src="https://venturebeat.com/wp-content/uploads/2018/02/google-flutter-logo.png?w=750&strip=all" alt="flutter" width="60" height="60" />
           <img src="https://miro.medium.com/max/1400/1*QOx_tPV5wJnhTzAGhfIiLA.png" alt="postman" width="60" height="60" />
         </div>
     </td>
